@@ -47,6 +47,8 @@ Acho que é bom o suficiente.
 
 Não precisa desenvolver um Diagrama de Classes UML, eu vou tentar eu mesmo fazer as coisas, será um projeto para aprender e eu desenvolver. Se eu precisar de ajuda eu pedirei, tanto é que o que eu mais quero saber é o que preciso para começar, como estamos fazendo agora. 
 
+---
+
 *RESPOSTA*
 
 Excelente atualização. Você tem uma mentalidade de engenharia muito clara: foco em custo, reaproveitamento de conhecimento (C++) e otimização.
